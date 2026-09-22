@@ -3,12 +3,9 @@
 The goal is to turn an encyclopedia into structured data.
 Turn scanned pages of a biographical encyclopedia into a searchable PDF, then one text record per biography, and then structured JSON and CSV tables using an OpenAI model to extract and fill in different fields.
 
-```mermaid
-flowchart LR
-    A[Scanned pages] --> B[Searchable PDF]
-    B --> C[One entry per biography]
-    C --> D[Structured JSON with evidence]
-    D --> E[CSV + validation report]
+```text
+Scanned pages  ->  Searchable PDF  ->  One entry per biography  ->  Structured JSON with evidence  ->  CSV + validation report
+     (scan)           (ocr)                 (extract)                     (structure)                   (export, validate)
 ```
 
 This is a working, small-scale version of a workflow I built for historical research for a project from Samuel Bazzi (UCSD) and Serena Canaan (SFU). The example uses three pages of a mid-twentieth-century biographical encyclopedia with entries in French and English. Those pages contain the problems that make this kind of source hard: an upside-down scan, a two-column layout, running heads and page numbers mixed into the text, biographies that continue in the next column or on the next page, and OCR noise.
