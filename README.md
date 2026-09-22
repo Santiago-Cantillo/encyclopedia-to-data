@@ -13,9 +13,9 @@ flowchart LR
 
 This is a working, small-scale version of a workflow I built for historical research for a project from Samuel Bazzi (UCSD) and Serena Canaan (SFU). The example uses three pages of a mid-twentieth-century biographical encyclopedia with entries in French and English. Those pages contain the problems that make this kind of source hard: an upside-down scan, a two-column layout, running heads and page numbers mixed into the text, biographies that continue in the next column or on the next page, and OCR noise.
 
-![The first sample page after OCR orientation correction](docs/images/sample_page_19.png)
+![The three sample pages after OCR orientation correction](docs/images/sample_pages_19-21.jpg)
 
-*The first sample page as the OCR stage leaves it. In the raw scan this page is upside down; after correction the parser still has to read two columns in order, drop the running head and page number, and keep entries together when they continue in the next column.*
+*The three sample pages as the OCR stage leaves them. In the raw scan the first page is upside down; after correction the parser still has to read two columns in order, drop the running heads and page numbers, and keep entries together when they continue in the next column or on the next page.*
 
 ## What is in the repository
 
