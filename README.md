@@ -13,6 +13,10 @@ flowchart LR
 
 This is a working, small-scale version of a workflow I built for historical research for a project from Samuel Bazzi (UCSD) and Serena Canaan (SFU). The example uses three pages of a mid-twentieth-century biographical encyclopedia with entries in French and English. Those pages contain the problems that make this kind of source hard: an upside-down scan, a two-column layout, running heads and page numbers mixed into the text, biographies that continue in the next column or on the next page, and OCR noise.
 
+![The first sample page after OCR orientation correction](docs/images/sample_page_19.png)
+
+*The first sample page as the OCR stage leaves it. In the raw scan this page is upside down; after correction the parser still has to read two columns in order, drop the running head and page number, and keep entries together when they continue in the next column.*
+
 ## What is in the repository
 
 | Directory | Contents |
@@ -20,7 +24,7 @@ This is a working, small-scale version of a workflow I built for historical rese
 | `scripts/` | The pipeline: four files, described in the next section, plus the tests. |
 | `examples/` | Saved outputs of a complete run over the three-page sample, so every stage can be inspected without an API key. |
 | `docs/` | Field definitions, validation notes, reuse notes, and the hand-checked entry inventory. |
-| `data/raw/` | The provenance manifest of the sample. The scan itself is not distributed; see the [reuse notes](docs/reuse.md). |
+| `data/raw/` | The three-page scan and its provenance manifest; see the [reuse notes](docs/reuse.md). |
 | `outputs/` | Your working directory, ignored by Git. |
 
 ## Where to change things for your own book
@@ -76,7 +80,7 @@ Every stage writes to `outputs/` by default; change that with `--output`.
 
 Start on a page that begins with a new entry: text before the first heading is dropped. Edit the generated `data/raw/source.json` if the last entry on your last page is complete (`last_entry_incomplete`).
 
-**2. OCR.** Corrects rotation and skew and adds a text layer. Use `--jobs 0` for all cores on a big book, and `--skip-text` if some pages already carry text.
+**2. OCR.** Corrects rotation and skew and adds a text layer. The included sample runs as is; for your own book do step 1 first. Use `--jobs 0` for all cores on a big book, and `--skip-text` if some pages already carry text.
 
 ```powershell
 .\.venv\Scripts\python.exe scripts/pipeline.py ocr
@@ -127,7 +131,7 @@ The defaults are `gpt-5-mini` with `high` reasoning effort and a 50,000 output-t
 
 ## Cost
 
-Cost depends on the number and length of entries, the prompt, the model and the reasoning effort. `outputs/usage.json` totals the tokens of saved successful responses. Two data points: the three-page example run used 78k input and 225k output tokens, 209k of them reasoning tokens; and in December 2025 I processed a whole book of several hundred pages for roughly US$20 with a GPT-5-family model, though I no longer have the exact settings. Check the [current pricing](https://developers.openai.com/api/docs/pricing) and your billing page. For whole books the [Batch API](https://developers.openai.com/api/docs/guides/batch) is cheaper and is a natural extension of the `structure` stage; it is not implemented here.
+Cost depends on the number and length of entries, the prompt, the model and the reasoning effort. `outputs/usage.json` totals the tokens of saved successful responses. Two data points: the three-page example run used 78k input and 225k output tokens, 209k of them reasoning tokens; and in December 2025 I processed a whole book of several hundred pages for roughly US$20 with a GPT-5-family model. Check the [current pricing](https://developers.openai.com/api/docs/pricing) and your billing page. For whole books the [Batch API](https://developers.openai.com/api/docs/guides/batch) is cheaper and is a natural extension of the `structure` stage; it is not implemented here.
 
 ## Limits
 

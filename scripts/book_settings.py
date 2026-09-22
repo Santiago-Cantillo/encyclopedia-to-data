@@ -23,7 +23,7 @@ import re
 SOURCE_ID = "encyclopedia_sample"      # prefix of every record id
 SOURCE_TITLE = "Biographical encyclopedia, mid-twentieth century (title withheld)"
 SOURCE_NOTE = ("Two-column pages with entries in French or English. "
-               "The publisher reserved all rights; the scan is not redistributed with this code.")
+               "The publisher reserved all rights; three sample pages are included for demonstration.")
 OCR_LANGUAGES = "eng+fra"              # Tesseract language packs joined with '+'
 
 # --- Model defaults for `pipeline.py structure` -------------------------------------

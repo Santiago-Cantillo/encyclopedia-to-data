@@ -3,8 +3,9 @@
 !.env.example
 api_keys/
 *.env
-# Scanned pages are not part of the initial release. Add them deliberately with `git add -f`.
+# No PDFs except the three-page sample scan.
 *.pdf
+!data/raw/sample_pages_004_006.pdf
 *.tmp
 *.stackdump
 .venv/
