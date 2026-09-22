@@ -1,0 +1,23 @@
+[
+  {"header_contains": "ABADIR YOUSSEF, ADLY", "pdf_page_start": 4, "pdf_page_end": 4},
+  {"header_contains": "ABAZA, ABDALLAH FIKRI", "pdf_page_start": 4, "pdf_page_end": 4},
+  {"header_contains": "ABAZA, AZIZ", "pdf_page_start": 4, "pdf_page_end": 4},
+  {"header_contains": "ABAZA, FOUAD", "pdf_page_start": 4, "pdf_page_end": 4},
+  {"header_contains": "ABAZA, MAHMOUD", "pdf_page_start": 4, "pdf_page_end": 4},
+  {"header_contains": "ABAZA, OSMAN", "pdf_page_start": 4, "pdf_page_end": 5},
+  {"header_contains": "ABAZA, SHOUKRY", "pdf_page_start": 5, "pdf_page_end": 5},
+  {"header_contains": "ABBASSY, Dr. AHMED SHAFIK", "pdf_page_start": 5, "pdf_page_end": 5},
+  {"header_contains": "ABBOUDA, MOUSTAFA", "pdf_page_start": 5, "pdf_page_end": 5},
+  {"header_contains": "ABDEL AHAD, ARMAND SELIM", "pdf_page_start": 5, "pdf_page_end": 5},
+  {"header_contains": "ABDEL AZIZ MOHAMED", "pdf_page_start": 5, "pdf_page_end": 5},
+  {"header_contains": "ABDEL FATTAH HASSAN, avocat", "pdf_page_start": 5, "pdf_page_end": 5},
+  {"header_contains": "ABDEL FATTAH HASSAN, Mira", "pdf_page_start": 5, "pdf_page_end": 5},
+  {"header_contains": "ABDEL HAK, ABDEL HAMID", "pdf_page_start": 5, "pdf_page_end": 6},
+  {"header_contains": "ABDEL HAMID, Dr. AHMED NAZMY", "pdf_page_start": 6, "pdf_page_end": 6},
+  {"header_contains": "ABDEL MAKSUD AHMED, AHMED", "pdf_page_start": 6, "pdf_page_end": 6},
+  {"header_contains": "ABDEL NABI, AHMED MAHMOUD", "pdf_page_start": 6, "pdf_page_end": 6},
+  {"header_contains": "ABDEL NABI, KAMAL-EL-DiN MAHMOUD", "pdf_page_start": 6, "pdf_page_end": 6},
+  {"header_contains": "ABDEL NOUR, AMIN FAKHRY", "pdf_page_start": 6, "pdf_page_end": 6},
+  {"header_contains": "ABDEL WAHAB, IBRAHIM", "pdf_page_start": 6, "pdf_page_end": 6},
+  {"header_contains": "ABDEL WAHAB TALAAT", "pdf_page_start": 6, "pdf_page_end": 6}
+]

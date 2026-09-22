@@ -1,0 +1,2585 @@
+[
+  {
+    "id": "encyclopedia_sample_001",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 4,
+    "pdf_page_end": 4,
+    "printed_page_start": 19,
+    "printed_page_end": 19,
+    "source_incomplete": false,
+    "header": "ABADIR YOUSSEF, ADLY,",
+    "body": "BSC., directeur-gén. de «N.A.C.IT.A» Co. administrateur-délégué de la Soc. Eg. pour travaux d’Emeri et Abrasifs et Acessoires, S.A.E., administrateur du Scribe Egyptien et Banque de l'Union Commerciale ; anc. : maitre adj. de conférence à l’école des Arts et Métiers et attaché de la Mobil Oil Egyp Inc., Ingénieur ; né a Deir Mowas, Mallawi, en 1921 ; Etudes : Faculté Polytech. Univ. Fouad I. ; Adr. 3, Sh. Firdous, Zamalek, Tel. 801100, CAIRO, Club : G.S.C.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABADIR YOUSSEF",
+      "first_name": "ADLY",
+      "middle_name": null,
+      "birthdate": "1921",
+      "birthplace": "Deir Mowas, Mallawi",
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": "BSC.",
+          "institution": "Faculté Polytech. Univ. Fouad I.",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Etudes : Faculté Polytech. Univ. Fouad I.",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "Managing Director",
+          "organization": "«N.A.C.IT.A» Co.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "directeur-gén. de «N.A.C.IT.A» Co.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Managing Director",
+          "organization": "Soc. Eg. pour travaux d’Emeri et Abrasifs et Acessoires, S.A.E.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "administrateur-délégué de la Soc. Eg. pour travaux d’Emeri et Abrasifs et Acessoires, S.A.E.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Administrator",
+          "organization": "Scribe Egyptien et Banque de l'Union Commerciale",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "administrateur du Scribe Egyptien et Banque de l'Union Commerciale",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Assistant Lecturer",
+          "organization": "l’école des Arts et Métiers",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "anc. : maitre adj. de conférence à l’école des Arts et Métiers",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Attaché",
+          "organization": "Mobil Oil Egyp Inc.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "attaché de la Mobil Oil Egyp Inc.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Engineer",
+          "organization": "Mobil Oil Egyp Inc.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "attaché de la Mobil Oil Egyp Inc., Ingénieur",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "3, Sh. Firdous, Zamalek, CAIRO",
+          "evidence": "Adr. 3, Sh. Firdous, Zamalek",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "801100",
+          "evidence": "Tel. 801100",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "G.S.C.",
+          "evidence": "Club : G.S.C.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_002",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 4,
+    "pdf_page_end": 4,
+    "printed_page_start": 19,
+    "printed_page_end": 19,
+    "source_incomplete": false,
+    "header": "ABAZA, ABDALLAH FIKRI,",
+    "body": "président et administrateur de Sociétés, ex-sous-secrétaire d'Etat au Comm. et de l’Ind., né à Ghazala (Charkieh) le 2 Mars 1895 ; Etudes : Facultés de Com. et de Droit; Auteur : «Recherches Economiques sur le Soudan »; Adr; 5 Sh. Chérif pacha, Tel. 53507, and 803968, CAIRO Clubs : G.S.C. CECP, NSC, ECU, CC (président)",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABAZA",
+      "first_name": "ABDALLAH",
+      "middle_name": "FIKRI",
+      "birthdate": "1895-03-02",
+      "birthplace": "Ghazala (Charkieh)",
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": null,
+          "institution": "Facultés de Com.",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Etudes : Facultés de Com. et de Droit",
+          "confidence": "high"
+        },
+        {
+          "degree": null,
+          "institution": "Facultés de Droit",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Etudes : Facultés de Com. et de Droit",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "President and Administrator",
+          "organization": "Sociétés",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "président et administrateur de Sociétés",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Under-Secretary of State",
+          "organization": "Comm. et de l’Ind.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "ex-sous-secrétaire d'Etat au Comm. et de l’Ind.",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [
+        {
+          "title_or_description": "Recherches Economiques sur le Soudan",
+          "evidence": "Auteur : «Recherches Economiques sur le Soudan »",
+          "confidence": "high"
+        }
+      ],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "5 Sh. Chérif pacha, CAIRO",
+          "evidence": "Adr; 5 Sh. Chérif pacha, Tel. 53507, and 803968, CAIRO",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "53507",
+          "evidence": "Tel. 53507",
+          "confidence": "high"
+        },
+        {
+          "phone": "803968",
+          "evidence": "803968",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "G.S.C.",
+          "evidence": "Clubs : G.S.C.",
+          "confidence": "high"
+        },
+        {
+          "name": "CECP",
+          "evidence": "G.S.C. CECP",
+          "confidence": "high"
+        },
+        {
+          "name": "NSC",
+          "evidence": "CECP, NSC",
+          "confidence": "high"
+        },
+        {
+          "name": "ECU",
+          "evidence": "NSC, ECU",
+          "confidence": "high"
+        },
+        {
+          "name": "CC",
+          "evidence": "CC (président)",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_003",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 4,
+    "pdf_page_end": 4,
+    "printed_page_start": 19,
+    "printed_page_end": 19,
+    "source_incomplete": false,
+    "header": "ABAZA, AZIZ,",
+    "body": "C.B.E. président et administrateur-délégué de l'Imprimerie Misr, SAE, administrateur de The Land Bank of Egypt ; S.A. des Tramways du Caire ; Soc. Foncière du Domaine de Cheikh Fadl ; Crown Brewery ; Soc. Misr pour le Théâtre et le Cinéma ; Soc. Eg. d'Entreprises et Construction ; Soc. Eg. de pétroles (SEP) ; ex-sénateur, anc. Moudir d’Assiout ; licencié en droit, homme de lettres et Mme,née Ismail Sedky Adr: 17, Sh. Maahad Al-Swisry, Zamalek, Tel, 803222, CAIRO, Résidence d’été : 343 Route de l'Armée, Ramleh, ALEXANDRIE, (EG.).",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABAZA",
+      "first_name": "AZIZ",
+      "middle_name": null,
+      "birthdate": null,
+      "birthplace": null,
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": "licencié en droit",
+          "institution": null,
+          "field_of_study": "droit",
+          "year": null,
+          "evidence": "licencié en droit",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "President and Managing Director",
+          "organization": "l'Imprimerie Misr, SAE",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "président et administrateur-délégué de l'Imprimerie Misr, SAE",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director",
+          "organization": "The Land Bank of Egypt",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "administrateur de The Land Bank of Egypt",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director",
+          "organization": "S.A. des Tramways du Caire",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "S.A. des Tramways du Caire",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director",
+          "organization": "Soc. Foncière du Domaine de Cheikh Fadl",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Soc. Foncière du Domaine de Cheikh Fadl",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director",
+          "organization": "Crown Brewery",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Crown Brewery",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director",
+          "organization": "Soc. Misr pour le Théâtre et le Cinéma",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Soc. Misr pour le Théâtre et le Cinéma",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director",
+          "organization": "Soc. Eg. d'Entreprises et Construction",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Soc. Eg. d'Entreprises et Construction",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director",
+          "organization": "Soc. Eg. de pétroles (SEP)",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Soc. Eg. de pétroles (SEP)",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Former Senator",
+          "organization": "",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "ex-sénateur",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Moudir d’Assiout",
+          "organization": "",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "anc. Moudir d’Assiout",
+          "confidence": "high"
+        }
+      ],
+      "family": [
+        {
+          "relation": "spouse",
+          "name": "Ismail Sedky",
+          "evidence": "Mme,née Ismail Sedky",
+          "confidence": "high"
+        }
+      ],
+      "writings": [],
+      "awards": [
+        {
+          "label": "C.B.E.",
+          "evidence": "C.B.E.",
+          "confidence": "high"
+        }
+      ],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "17, Sh. Maahad Al-Swisry, Zamalek, CAIRO",
+          "evidence": "Adr: 17, Sh. Maahad Al-Swisry, Zamalek",
+          "confidence": "high"
+        },
+        {
+          "address": "343 Route de l'Armée, Ramleh, ALEXANDRIE",
+          "evidence": "Résidence d’été : 343 Route de l'Armée, Ramleh, ALEXANDRIE",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "803222",
+          "evidence": "Tel, 803222",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [],
+      "founder_of": [],
+      "notes": [
+        {
+          "note": "homme de lettres",
+          "evidence": "homme de lettres",
+          "confidence": "high"
+        }
+      ],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_004",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 4,
+    "pdf_page_end": 4,
+    "printed_page_start": 19,
+    "printed_page_end": 19,
+    "source_incomplete": false,
+    "header": "ABAZA, FOUAD,",
+    "body": "Grand Cordon de l'Ordre du Cédre Liban, Grand Cordon de l’Ordre du Phénix de Grèce, Nich. Ift., Grand officier de l'Ordre Orange-Nassau de Holl. Officier de la Légion d’Honneur, Mérite Olym., Grand Cordon de l'Ordre du _ Istiklal de Jordanie et Al-Mahdia du Maroc, Méd. d’Hon. de Syrie. ex-administr.-dél, de la Soc. Eg. d’Agr.; président et administrateur de Sociétés, anc. Sénateur, né à Minia elKamh, (Charkieh) le 24 Juillet 1890. Etudes : Collège d'Agriculture de Giza. Adr. : 6, Sh. Rashadan Dokki, Tél. 803385. CAIRO. Clubs: M.A, G.S.C., C.A. S.P.C. R.C. of Cairo.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABAZA",
+      "first_name": "FOUAD",
+      "middle_name": null,
+      "birthdate": "1890-07-24",
+      "birthplace": "Minia elKamh, (Charkieh)",
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": null,
+          "institution": "Collège d'Agriculture de Giza.",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Etudes : Collège d'Agriculture de Giza.",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "Managing Director",
+          "organization": "Soc. Eg. d’Agr.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "ex-administr.-dél, de la Soc. Eg. d’Agr.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "President and Administrator",
+          "organization": "Sociétés",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "président et administrateur de Sociétés",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Senator",
+          "organization": "",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "anc. Sénateur",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [
+        {
+          "label": "Grand Cordon de l'Ordre du Cédre Liban",
+          "evidence": "Grand Cordon de l'Ordre du Cédre Liban",
+          "confidence": "high"
+        },
+        {
+          "label": "Grand Cordon de l’Ordre du Phénix de Grèce",
+          "evidence": "Grand Cordon de l’Ordre du Phénix de Grèce",
+          "confidence": "high"
+        },
+        {
+          "label": "Nich. Ift.",
+          "evidence": "Nich. Ift.",
+          "confidence": "high"
+        },
+        {
+          "label": "Grand officier de l'Ordre Orange-Nassau de Holl.",
+          "evidence": "Grand officier de l'Ordre Orange-Nassau de Holl.",
+          "confidence": "high"
+        },
+        {
+          "label": "Officier de la Légion d’Honneur",
+          "evidence": "Officier de la Légion d’Honneur",
+          "confidence": "high"
+        },
+        {
+          "label": "Mérite Olym.",
+          "evidence": "Mérite Olym.",
+          "confidence": "high"
+        },
+        {
+          "label": "Grand Cordon de l'Ordre du _ Istiklal de Jordanie",
+          "evidence": "Grand Cordon de l'Ordre du _ Istiklal de Jordanie",
+          "confidence": "high"
+        },
+        {
+          "label": "Al-Mahdia du Maroc",
+          "evidence": "Al-Mahdia du Maroc",
+          "confidence": "high"
+        },
+        {
+          "label": "Méd. d’Hon. de Syrie.",
+          "evidence": "Méd. d’Hon. de Syrie.",
+          "confidence": "high"
+        }
+      ],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "6, Sh. Rashadan Dokki, CAIRO",
+          "evidence": "Adr. : 6, Sh. Rashadan Dokki",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "803385",
+          "evidence": "Tél. 803385.",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "M.A",
+          "evidence": "M.A",
+          "confidence": "high"
+        },
+        {
+          "name": "G.S.C.",
+          "evidence": "G.S.C.",
+          "confidence": "high"
+        },
+        {
+          "name": "C.A.",
+          "evidence": "C.A.",
+          "confidence": "high"
+        },
+        {
+          "name": "S.P.C.",
+          "evidence": "S.P.C.",
+          "confidence": "high"
+        },
+        {
+          "name": "R.C. of Cairo",
+          "evidence": "R.C. of Cairo",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_005",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 4,
+    "pdf_page_end": 4,
+    "printed_page_start": 19,
+    "printed_page_end": 19,
+    "source_incomplete": false,
+    "header": "ABAZA, MAHMOUD,",
+    "body": "SOLIMAN, M.B., Ch.B., (Edin.), T.D.D., (wales). Medical Adviser, Misr Weaving & Spinning Co., Director of Companies; member Expert Committee, W.H.O.; formerly Asst. Under Sec. for pub. Health; born Zagazig. 1893; educ., : Victoria Collège, Edinburg Univ. Add. : 79, Sh, Toman Bey, Koubbeh Palace, Tél. 861906, CAIRO. Clubs : HSE, SPC.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABAZA",
+      "first_name": "MAHMOUD",
+      "middle_name": null,
+      "birthdate": "1893",
+      "birthplace": "Zagazig",
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": "M.B.",
+          "institution": null,
+          "field_of_study": null,
+          "year": null,
+          "evidence": "M.B.",
+          "confidence": "high"
+        },
+        {
+          "degree": "Ch.B.",
+          "institution": "Edin.",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Ch.B., (Edin.)",
+          "confidence": "high"
+        },
+        {
+          "degree": "T.D.D.",
+          "institution": "wales",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "T.D.D., (wales)",
+          "confidence": "high"
+        },
+        {
+          "degree": null,
+          "institution": "Victoria Collège, Edinburg Univ.",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "educ., : Victoria Collège, Edinburg Univ.",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "Medical Adviser",
+          "organization": "Misr Weaving & Spinning Co.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Medical Adviser, Misr Weaving & Spinning Co.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director of Companies",
+          "organization": "",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Director of Companies",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Member, Expert Committee",
+          "organization": "W.H.O.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "member Expert Committee, W.H.O.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Asst. Under Sec. for pub. Health",
+          "organization": "",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "formerly Asst. Under Sec. for pub. Health",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "79, Sh, Toman Bey, Koubbeh Palace, CAIRO",
+          "evidence": "Add. : 79, Sh, Toman Bey, Koubbeh Palace",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "861906",
+          "evidence": "Tél. 861906",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "HSE",
+          "evidence": "Clubs : HSE, SPC.",
+          "confidence": "high"
+        },
+        {
+          "name": "SPC.",
+          "evidence": "Clubs : HSE, SPC.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_006",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 4,
+    "pdf_page_end": 5,
+    "printed_page_start": 19,
+    "printed_page_end": 20,
+    "source_incomplete": false,
+    "header": "ABAZA, OSMAN,",
+    "body": "ex-sous-secrét. d'Etat aux Finances; administrateur de Sociétés; né à Minia el-Kamh, le ler Jan. 1894; Etudes : Faculté d’Agriculture, Cairo; Auteur de : «Cotton Selection» et «Land Reclamation in Egypt»; Adr. : 20, Sh. Hassan Sabry, Zamalek, Tél. 806679, «Abaza» Route des Pyramides, à côté Studio Misr, Tel. 896996, Giza, CAIRO. Clubs: GCC. CE, CSP. Résidence d'été : Sinouris, FAYOUM (E£.).",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABAZA",
+      "first_name": "OSMAN",
+      "middle_name": null,
+      "birthdate": "1894-01-01",
+      "birthplace": "Minia el-Kamh",
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": null,
+          "institution": "Faculté d’Agriculture, Cairo",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Etudes : Faculté d’Agriculture, Cairo",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "Under-Secretary of State for Finance",
+          "organization": "Etat aux Finances",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "ex-sous-secrét. d'Etat aux Finances",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director",
+          "organization": "Sociétés",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "administrateur de Sociétés",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [
+        {
+          "title_or_description": "«Cotton Selection»",
+          "evidence": "«Cotton Selection»",
+          "confidence": "high"
+        },
+        {
+          "title_or_description": "«Land Reclamation in Egypt»",
+          "evidence": "«Land Reclamation in Egypt»",
+          "confidence": "high"
+        }
+      ],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "20, Sh. Hassan Sabry, Zamalek",
+          "evidence": "Adr. : 20, Sh. Hassan Sabry, Zamalek",
+          "confidence": "high"
+        },
+        {
+          "address": "«Abaza» Route des Pyramides, à côté Studio Misr, Giza, CAIRO",
+          "evidence": "«Abaza» Route des Pyramides, à côté Studio Misr, Tel. 896996, Giza, CAIRO",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "806679",
+          "evidence": "Tél. 806679",
+          "confidence": "high"
+        },
+        {
+          "phone": "896996",
+          "evidence": "Tel. 896996",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "GCC.",
+          "evidence": "GCC.",
+          "confidence": "high"
+        },
+        {
+          "name": "CE",
+          "evidence": "CE",
+          "confidence": "high"
+        },
+        {
+          "name": "CSP.",
+          "evidence": "CSP.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [
+        {
+          "note": "Résidence d'été : Sinouris, FAYOUM (E£.).",
+          "evidence": "Résidence d'été : Sinouris, FAYOUM (E£.).",
+          "confidence": "high"
+        }
+      ],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_007",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 5,
+    "pdf_page_end": 5,
+    "printed_page_start": 20,
+    "printed_page_end": 20,
+    "source_incomplete": false,
+    "header": "ABAZA, SHOUKRY,",
+    "body": "Officier de la légion d'Honneur, O.B.E., Com. Mer. Syr. Ingénieur conseil, anc. représentant à Paris de la Nile publicity. S.A.E. ex-sous-sécrétaire d'Etat adj. aux communications; administrateur délégué pour l’Egypte de la Soc. France-Egypte; né le 8 Oct. 1901; Etudes : Ecole Polytechnique de Giza, membre de la Soc. Egypt. des ingénieurs; Adr. : 15 Sh. Nabatat. Garden City, Tel. 22522, CATRO,Clubs: M.A., A.C.E., G.S.C. R.C. of Cairo, Union Interalliés, Paris.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABAZA",
+      "first_name": "SHOUKRY",
+      "middle_name": null,
+      "birthdate": "1901-10-08",
+      "birthplace": null,
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": null,
+          "institution": "Ecole Polytechnique de Giza",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Etudes : Ecole Polytechnique de Giza",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "Consulting Engineer",
+          "organization": "",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Ingénieur conseil",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Representative in Paris",
+          "organization": "Nile publicity. S.A.E.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "anc. représentant à Paris de la Nile publicity. S.A.E.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Deputy Under-Secretary of State for Communications",
+          "organization": "",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "ex-sous-sécrétaire d'Etat adj. aux communications",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Managing Director",
+          "organization": "Soc. France-Egypte",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "administrateur délégué pour l’Egypte de la Soc. France-Egypte",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [
+        {
+          "label": "Officier de la légion d'Honneur",
+          "evidence": "Officier de la légion d'Honneur",
+          "confidence": "high"
+        },
+        {
+          "label": "O.B.E.",
+          "evidence": "O.B.E.",
+          "confidence": "high"
+        },
+        {
+          "label": "Com. Mer. Syr.",
+          "evidence": "Com. Mer. Syr.",
+          "confidence": "high"
+        }
+      ],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "15 Sh. Nabatat. Garden City",
+          "evidence": "Adr. : 15 Sh. Nabatat. Garden City",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "22522",
+          "evidence": "Tel. 22522",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "Soc. Egypt. des ingénieurs",
+          "evidence": "membre de la Soc. Egypt. des ingénieurs",
+          "confidence": "high"
+        },
+        {
+          "name": "M.A.",
+          "evidence": "M.A.",
+          "confidence": "high"
+        },
+        {
+          "name": "A.C.E.",
+          "evidence": "A.C.E.",
+          "confidence": "high"
+        },
+        {
+          "name": "G.S.C.",
+          "evidence": "G.S.C.",
+          "confidence": "high"
+        },
+        {
+          "name": "R.C. of Cairo",
+          "evidence": "R.C. of Cairo",
+          "confidence": "high"
+        },
+        {
+          "name": "Union Interalliés, Paris.",
+          "evidence": "Union Interalliés, Paris.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_008",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 5,
+    "pdf_page_end": 5,
+    "printed_page_start": 20,
+    "printed_page_end": 20,
+    "source_incomplete": false,
+    "header": "ABBASSY, Dr. AHMED SHAFIK,",
+    "body": "M.B. D. Ch. M.D., (Ch.), Prof. of Pediatrics, Faculty of Medicine, Alexandria, Univ.; born Cairo, May 5, 1910; educ. : Faculty of Medicine, Cairo & Mrs Abbassy, née Fathya El-Lozi . Add. : 20, Sh. Laurens Ramleh. Tel. 60404, ALEXANDRIA.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABBASSY",
+      "first_name": "AHMED SHAFIK",
+      "middle_name": null,
+      "birthdate": "1910-05-05",
+      "birthplace": "Cairo",
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": "M.B.",
+          "institution": "Faculty of Medicine, Cairo",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "M.B.",
+          "confidence": "high"
+        },
+        {
+          "degree": "D. Ch.",
+          "institution": "Faculty of Medicine, Cairo",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "D. Ch.",
+          "confidence": "high"
+        },
+        {
+          "degree": "M.D., (Ch.)",
+          "institution": "Faculty of Medicine, Cairo",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "M.D., (Ch.)",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "Professor of Pediatrics",
+          "organization": "Faculty of Medicine, Alexandria, Univ.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Prof. of Pediatrics, Faculty of Medicine, Alexandria, Univ.",
+          "confidence": "high"
+        }
+      ],
+      "family": [
+        {
+          "relation": "spouse",
+          "name": "Mrs Abbassy, née Fathya El-Lozi",
+          "evidence": "Mrs Abbassy, née Fathya El-Lozi",
+          "confidence": "high"
+        }
+      ],
+      "writings": [],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "20, Sh. Laurens Ramleh, ALEXANDRIA",
+          "evidence": "Add. : 20, Sh. Laurens Ramleh.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "60404",
+          "evidence": "Tel. 60404",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_009",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 5,
+    "pdf_page_end": 5,
+    "printed_page_start": 20,
+    "printed_page_end": 20,
+    "source_incomplete": false,
+    "header": "ABBOUDA, MOUSTAFA,",
+    "body": "Republican Medal, Cl. III, General Manager Fgyntian Cement Office; former Asst. Under Secretary of State for Municipal and Rural Aff.: Born Mallawi 1897; edue, : Faculty of Engineering. Add. : 13, Sh. Efflatoun, Héliopolis, Tel. 63009, CATRO Clubs : H.S.C.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABBOUDA",
+      "first_name": "MOUSTAFA",
+      "middle_name": null,
+      "birthdate": "1897",
+      "birthplace": "Mallawi",
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": null,
+          "institution": "Faculty of Engineering",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Faculty of Engineering.",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "General Manager",
+          "organization": "Fgyntian Cement Office",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "General Manager Fgyntian Cement Office",
+          "confidence": "medium"
+        },
+        {
+          "role_en": "Assistant Under Secretary of State for Municipal and Rural Affairs",
+          "organization": "\u0000",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "former Asst. Under Secretary of State for Municipal and Rural Aff.",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [
+        {
+          "label": "Republican Medal, Cl. III",
+          "evidence": "Republican Medal, Cl. III",
+          "confidence": "high"
+        }
+      ],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "13, Sh. Efflatoun, Héliopolis",
+          "evidence": "Add. : 13, Sh. Efflatoun, Héliopolis",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "63009",
+          "evidence": "Tel. 63009",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "H.S.C.",
+          "evidence": "Clubs : H.S.C.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": true,
+        "needs_review_reason": "Text contains OCR errors / garbling (e.g., 'Fgyntian', 'edue,', 'CATRO')"
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": true
+    }
+  },
+  {
+    "id": "encyclopedia_sample_010",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 5,
+    "pdf_page_end": 5,
+    "printed_page_start": 20,
+    "printed_page_end": 20,
+    "source_incomplete": false,
+    "header": "ABDEL AHAD, ARMAND SELIM,",
+    "body": "Director, Caltex (EGYPT) S.A.E. and Director, Soc. Texas Egypt des pétroles, S.A.E. formerly: National Bank of Egypt 1989-41; R.A.F. (Auditor) 1941- 43; joined Caltex 1943; Chief Accoun-. tant 1952; Director and Attorney-inFact 1957; born Cairo Apr. 22, 1921; a | educ. : Coll. des Fréres et Mrs. Esther Abdel Ahad. Add. : 8, Sh. Kasr elNil, Tel. 45850, CAIRO. Recreations: Golf, Tennis. Club : G.S.C.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABDEL AHAD",
+      "first_name": "ARMAND SELIM",
+      "middle_name": null,
+      "birthdate": "1921-04-22",
+      "birthplace": "Cairo",
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": null,
+          "institution": "Coll. des Fréres et Mrs. Esther Abdel Ahad.",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "educ. : Coll. des Fréres et Mrs. Esther Abdel Ahad.",
+          "confidence": "medium"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "Director",
+          "organization": "Caltex (EGYPT) S.A.E.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Director, Caltex (EGYPT) S.A.E.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director",
+          "organization": "Soc. Texas Egypt des pétroles, S.A.E.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Director, Soc. Texas Egypt des pétroles, S.A.E.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "/",
+          "organization": "National Bank of Egypt",
+          "start_year": "1989",
+          "end_year": "41",
+          "evidence": "National Bank of Egypt 1989-41",
+          "confidence": "medium"
+        },
+        {
+          "role_en": "Auditor",
+          "organization": "R.A.F.",
+          "start_year": "1941",
+          "end_year": "1943",
+          "evidence": "R.A.F. (Auditor) 1941- 43",
+          "confidence": "high"
+        },
+        {
+          "role_en": "/",
+          "organization": "Caltex",
+          "start_year": "1943",
+          "end_year": null,
+          "evidence": "joined Caltex 1943",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Chief Accountant",
+          "organization": "Caltex",
+          "start_year": "1952",
+          "end_year": null,
+          "evidence": "joined Caltex 1943; Chief Accoun-. tant 1952",
+          "confidence": "medium"
+        },
+        {
+          "role_en": "Director and Attorney-inFact",
+          "organization": "Caltex",
+          "start_year": "1957",
+          "end_year": null,
+          "evidence": "Chief Accoun-. tant 1952; Director and Attorney-inFact 1957",
+          "confidence": "medium"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "8, Sh. Kasr elNil, CAIRO",
+          "evidence": "Add. : 8, Sh. Kasr elNil, Tel. 45850, CAIRO.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "45850",
+          "evidence": "Tel. 45850",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "G.S.C.",
+          "evidence": "Club : G.S.C.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [
+        {
+          "note": "Recreations: Golf, Tennis.",
+          "evidence": "Recreations: Golf, Tennis.",
+          "confidence": "high"
+        }
+      ],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": true,
+        "needs_review_reason": "Text contains OCR/formatting errors and ambiguous dates (e.g., '1989-41', 'Chief Accoun-. tant', 'a | educ. : ...'); extraction should be reviewed."
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": true
+    }
+  },
+  {
+    "id": "encyclopedia_sample_011",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 5,
+    "pdf_page_end": 5,
+    "printed_page_start": 20,
+    "printed_page_end": 20,
+    "source_incomplete": false,
+    "header": "ABDEL AZIZ MOHAMED,",
+    "body": "A.M.I. Mench. E., Managing-Direct. Smelting Co. Director; Soc. Egypt. d’Electricité, Anglo-Egypt Mining Co.; Administ. d’Electricité et de Gaz (ex-Lebon & Cie) Soc. Misr-Fluviale. Formerly Direct. Gen. of Industry Ministry of Commerce & Industry;. educ. : Sulta- ‘nieh Engin. School. Add: 37, Road, 79, Maadi, 34884, Ezbat Oussim, Tel. 15. CAIRO. Clubs : MS.C. U.C.E.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABDEL AZIZ MOHAMED",
+      "first_name": null,
+      "middle_name": null,
+      "birthdate": null,
+      "birthplace": null,
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": null,
+          "institution": "Sulta- ‘nieh Engin. School.",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "educ. : Sulta- ‘nieh Engin. School.",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "Managing Director",
+          "organization": "Smelting Co.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Managing-Direct. Smelting Co.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director",
+          "organization": "Soc. Egypt. d’Electricité",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Director; Soc. Egypt. d’Electricité",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director",
+          "organization": "Anglo-Egypt Mining Co.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Anglo-Egypt Mining Co.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Administrator of Electricity and Gas",
+          "organization": "(ex-Lebon & Cie) Soc. Misr-Fluviale.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Administ. d’Electricité et de Gaz (ex-Lebon & Cie) Soc. Misr-Fluviale.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director General of Industry",
+          "organization": "Ministry of Commerce & Industry",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Formerly Direct. Gen. of Industry Ministry of Commerce & Industry",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "37, Road, 79, Maadi, 34884, Ezbat Oussim",
+          "evidence": "Add: 37, Road, 79, Maadi, 34884, Ezbat Oussim",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "15",
+          "evidence": "Tel. 15.",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "MS.C.",
+          "evidence": "MS.C.",
+          "confidence": "high"
+        },
+        {
+          "name": "U.C.E.",
+          "evidence": "U.C.E.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [
+        {
+          "note": "A.M.I. Mench. E.",
+          "evidence": "A.M.I. Mench. E.",
+          "confidence": "high"
+        }
+      ],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_012",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 5,
+    "pdf_page_end": 5,
+    "printed_page_start": 20,
+    "printed_page_end": 20,
+    "source_incomplete": false,
+    "header": "ABDEL FATTAH HASSAN, avocat | à la cour,",
+    "body": "Ex-ministre des Aff: Socia: les, ane. Sénateur. Adr. : 13, Sh. ‘Ibrahim Nagib, Garden-City Tel. : 26066, CAIRO, Club : N.S.C.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABDEL FATTAH HASSAN",
+      "first_name": null,
+      "middle_name": null,
+      "birthdate": null,
+      "birthplace": null,
+      "deathdate": null,
+      "deathplace": null,
+      "education": [],
+      "jobs": [
+        {
+          "role_en": "Lawyer",
+          "organization": "à la cour",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "avocat | à la cour",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [],
+      "political_activities": [
+        {
+          "label": "Ex-ministre des Aff: Socia: les",
+          "evidence": "Ex-ministre des Aff: Socia: les",
+          "confidence": "high"
+        },
+        {
+          "label": "ane. Sénateur.",
+          "evidence": "ane. Sénateur.",
+          "confidence": "high"
+        }
+      ],
+      "addresses": [
+        {
+          "address": "13, Sh. ‘Ibrahim Nagib, Garden-City, CAIRO",
+          "evidence": "Adr. : 13, Sh. ‘Ibrahim Nagib, Garden-City",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "26066",
+          "evidence": "Tel. : 26066",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "N.S.C.",
+          "evidence": "Club : N.S.C.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_013",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 5,
+    "pdf_page_end": 5,
+    "printed_page_start": 20,
+    "printed_page_end": 20,
+    "source_incomplete": false,
+    "header": "ABDEL FATTAH HASSAN, Mira: lai",
+    "body": "(S.0.), Ordre de la Rép., Ordre du Nil, C. Mér: Doré, Ordre Kawkab de Jord, Ordre Mér. Youg. Ordre Mér, Sy, Ambassadeur, Président de la Délégation Egyptienne auprès des Nations Unis siège Européen à Genève anc. : Commandant de l'Armée . Egyptienne au Soudan; Ministre d'Etat | Suppléant pour les Aff. Etrang; né au : Caire, le 9 Août 1911; Etudes: Acadé- : mie Milit., Coll. d’Etat-Major, Institut Magistral in Milit. Science ; dipl. d'Ed'Etudes Sup. des Aff. du Soudan; tudes: Sup: d'Histoire et des Aff. du Soudan; Arteur de : La guerre civile américaine», «Les. plus célèbres Leaders de la 2ème Guerre Mondiale». «Ibrahim _El-Fateh». «Les Stratégies de la 2ême | Guerre Mondiale». Add : 12, Sh. el- ' Gezina, Zamalek;Tel. 800092, CAIRO. sport : La Marche. Clubs : GSC.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABDEL FATTAH HASSAN",
+      "first_name": "Mira: lai",
+      "middle_name": null,
+      "birthdate": "1911-08-09",
+      "birthplace": "Caire",
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": null,
+          "institution": "Acadé- : mie Milit.",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Etudes: Acadé- : mie Milit.",
+          "confidence": "medium"
+        },
+        {
+          "degree": null,
+          "institution": "Coll. d’Etat-Major",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Coll. d’Etat-Major",
+          "confidence": "medium"
+        },
+        {
+          "degree": null,
+          "institution": "Institut Magistral in Milit. Science",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Institut Magistral in Milit. Science",
+          "confidence": "medium"
+        },
+        {
+          "degree": "dipl. d'Ed'Etudes Sup.",
+          "institution": null,
+          "field_of_study": "des Aff. du Soudan",
+          "year": null,
+          "evidence": "dipl. d'Ed'Etudes Sup. des Aff. du Soudan",
+          "confidence": "medium"
+        },
+        {
+          "degree": null,
+          "institution": null,
+          "field_of_study": "d'Histoire et des Aff. du Soudan",
+          "year": null,
+          "evidence": "tudes: Sup: d'Histoire et des Aff. du Soudan",
+          "confidence": "medium"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "Ambassador, President of the Delegation",
+          "organization": "Délégation Egyptienne auprès des Nations Unis siège Européen à Genève",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Ambassadeur, Président de la Délégation Egyptienne auprès des Nations Unis siège Européen à Genève",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Commander of the Army",
+          "organization": "l'Armée . Egyptienne au Soudan",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "anc. : Commandant de l'Armée . Egyptienne au Soudan",
+          "confidence": "medium"
+        },
+        {
+          "role_en": "Minister of State, Deputy for Foreign Affairs",
+          "organization": "",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Ministre d'Etat | Suppléant pour les Aff. Etrang;",
+          "confidence": "medium"
+        }
+      ],
+      "family": [],
+      "writings": [
+        {
+          "title_or_description": "La guerre civile américaine",
+          "evidence": "La guerre civile américaine",
+          "confidence": "high"
+        },
+        {
+          "title_or_description": "Les. plus célèbres Leaders de la 2ème Guerre Mondiale",
+          "evidence": "Les. plus célèbres Leaders de la 2ème Guerre Mondiale",
+          "confidence": "high"
+        },
+        {
+          "title_or_description": "Ibrahim _El-Fateh",
+          "evidence": "Ibrahim _El-Fateh",
+          "confidence": "high"
+        },
+        {
+          "title_or_description": "Les Stratégies de la 2ême | Guerre Mondiale",
+          "evidence": "Les Stratégies de la 2ême | Guerre Mondiale",
+          "confidence": "high"
+        }
+      ],
+      "awards": [
+        {
+          "label": "(S.0.)",
+          "evidence": "(S.0.)",
+          "confidence": "low"
+        },
+        {
+          "label": "Ordre de la Rép.",
+          "evidence": "Ordre de la Rép.",
+          "confidence": "high"
+        },
+        {
+          "label": "Ordre du Nil",
+          "evidence": "Ordre du Nil",
+          "confidence": "high"
+        },
+        {
+          "label": "C. Mér: Doré",
+          "evidence": "C. Mér: Doré",
+          "confidence": "medium"
+        },
+        {
+          "label": "Ordre Kawkab de Jord",
+          "evidence": "Ordre Kawkab de Jord",
+          "confidence": "high"
+        },
+        {
+          "label": "Ordre Mér. Youg.",
+          "evidence": "Ordre Mér. Youg.",
+          "confidence": "medium"
+        },
+        {
+          "label": "Ordre Mér, Sy",
+          "evidence": "Ordre Mér, Sy",
+          "confidence": "medium"
+        }
+      ],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "12, Sh. el- ' Gezina, Zamalek, CAIRO",
+          "evidence": "Add : 12, Sh. el- ' Gezina, Zamalek;Tel. 800092, CAIRO",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "800092",
+          "evidence": "Tel. 800092",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "GSC.",
+          "evidence": "Clubs : GSC.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [
+        {
+          "note": "sport : La Marche.",
+          "evidence": "sport : La Marche.",
+          "confidence": "high"
+        }
+      ],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": true,
+        "needs_review_reason": "Text contains OCR/artifact errors and garbled phrases (e.g., 'Acadé- : mie Milit.', 'Arteur de', '2ême | Guerre'), so some items are uncertain."
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": true
+    }
+  },
+  {
+    "id": "encyclopedia_sample_014",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 5,
+    "pdf_page_end": 6,
+    "printed_page_start": 20,
+    "printed_page_end": 21,
+    "source_incomplete": false,
+    "header": "| ABDEL HAK, ABDEL HAMID,",
+    "body": ". avocat à la cour de Cassation, ancien . ministre de l’Approv., des Wakfs et des Aff. Sociales. anc. sénateur et ex-bâtonnier de l'ordre des avocats, Président de The National Metal Industr., S.A.E., né à Aboukorkas (Minieh) en 1894; Etudes , Faculté de Droit du Caire, Adr.: Imm. Al-Chams, sh. Ilhamy, Garden-€ity, 21616, CATRO. Clubs N.S.C., A.C.E., C.Y¥.C,",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABDEL HAK",
+      "first_name": "ABDEL HAMID",
+      "middle_name": null,
+      "birthdate": "1894",
+      "birthplace": "Aboukorkas (Minieh)",
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": null,
+          "institution": "Faculté de Droit du Caire",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Etudes , Faculté de Droit du Caire",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "Lawyer",
+          "organization": "la cour de Cassation",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "avocat à la cour de Cassation",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Minister",
+          "organization": "l’Approv., des Wakfs et des Aff. Sociales",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "ancien . ministre de l’Approv., des Wakfs et des Aff. Sociales",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Senator",
+          "organization": "",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "anc. sénateur",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Bar Association President",
+          "organization": "l'ordre des avocats",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "ex-bâtonnier de l'ordre des avocats",
+          "confidence": "high"
+        },
+        {
+          "role_en": "President",
+          "organization": "The National Metal Industr., S.A.E.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Président de The National Metal Industr., S.A.E.",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "Imm. Al-Chams, sh. Ilhamy, Garden-€ity, 21616, CATRO",
+          "evidence": "Adr.: Imm. Al-Chams, sh. Ilhamy, Garden-€ity, 21616, CATRO",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "clubs": [
+        {
+          "name": "N.S.C.",
+          "evidence": "N.S.C.",
+          "confidence": "high"
+        },
+        {
+          "name": "A.C.E.",
+          "evidence": "A.C.E.",
+          "confidence": "high"
+        },
+        {
+          "name": "C.Y¥.C",
+          "evidence": "C.Y¥.C",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": true,
+        "needs_review_reason": "Text appears to contain OCR artifacts (Garden-€ity, CATRO, C.Y¥.C)"
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": true
+    }
+  },
+  {
+    "id": "encyclopedia_sample_015",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 6,
+    "pdf_page_end": 6,
+    "printed_page_start": 21,
+    "printed_page_end": 21,
+    "source_incomplete": false,
+    "header": "ABDEL HAMID, Dr. AHMED NAZMY,",
+    "body": "B.C. (Hons), Leeds Univ. 1933; Gladston Memorial prize 1933 : Ph. D, (Econ), 1936; Dip. Intl., 1953; Sub-Governor, National Bank of Egypt; formerly : Lecturer Asst. prof. Faculty of Comm., Univ. of Cairo 1936-46; Controller-Gen. later Director Gen., Foreign Exchange opérations, Minist. of Finance, 1947-50; born Cairo, Dec. 28, 1905: educ. : Higher Sch. of Cemmerce, Egypt; Publications : Author of works in Arabic on Subjects including «Structure of Modern Industry» 1937; <Money and crédit» (collab) 1941; «Digest of Econ. Doctrines», 1942; «The Present Econ. System», 1946: Add. : 401, Tarik -El-Horreya, Moustafa pasha, Ramleh, Tel. 72084, ALEXANDRIA and Sh. Elhamy, Tagher Bldg. Kasr el-Dubara 20734, CAIRO. Clubs : G.S.C., CRC. Member executive committee Egyntian group, Intern. org. for Business: Education.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABDEL HAMID",
+      "first_name": "AHMED NAZMY",
+      "middle_name": null,
+      "birthdate": "1905-12-28",
+      "birthplace": "Cairo",
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": "B.C. (Hons)",
+          "institution": "Leeds Univ.",
+          "field_of_study": null,
+          "year": "1933",
+          "evidence": "B.C. (Hons), Leeds Univ. 1933",
+          "confidence": "high"
+        },
+        {
+          "degree": "Ph. D",
+          "institution": null,
+          "field_of_study": "Econ",
+          "year": "1936",
+          "evidence": "Ph. D, (Econ), 1936",
+          "confidence": "high"
+        },
+        {
+          "degree": "Dip. Intl.",
+          "institution": null,
+          "field_of_study": null,
+          "year": "1953",
+          "evidence": "Dip. Intl., 1953",
+          "confidence": "high"
+        },
+        {
+          "degree": null,
+          "institution": "Higher Sch. of Cemmerce, Egypt",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "educ. : Higher Sch. of Cemmerce, Egypt",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "Sub-Governor",
+          "organization": "National Bank of Egypt",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Sub-Governor, National Bank of Egypt",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Lecturer and Assistant Professor",
+          "organization": "Faculty of Comm., Univ. of Cairo",
+          "start_year": "1936",
+          "end_year": "1946",
+          "evidence": "Lecturer Asst. prof. Faculty of Comm., Univ. of Cairo 1936-46",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Controller-General; Director General, Foreign Exchange opérations",
+          "organization": "Minist. of Finance",
+          "start_year": "1947",
+          "end_year": "1950",
+          "evidence": "Controller-Gen. later Director Gen., Foreign Exchange opérations, Minist. of Finance, 1947-50",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [
+        {
+          "title_or_description": "«Structure of Modern Industry» 1937",
+          "evidence": "«Structure of Modern Industry» 1937",
+          "confidence": "high"
+        },
+        {
+          "title_or_description": "<Money and crédit» (collab) 1941",
+          "evidence": "<Money and crédit» (collab) 1941",
+          "confidence": "high"
+        },
+        {
+          "title_or_description": "«Digest of Econ. Doctrines», 1942",
+          "evidence": "«Digest of Econ. Doctrines», 1942",
+          "confidence": "high"
+        },
+        {
+          "title_or_description": "«The Present Econ. System», 1946",
+          "evidence": "«The Present Econ. System», 1946",
+          "confidence": "high"
+        }
+      ],
+      "awards": [
+        {
+          "label": "Gladston Memorial prize 1933",
+          "evidence": "Gladston Memorial prize 1933",
+          "confidence": "high"
+        }
+      ],
+      "political_activities": [
+        {
+          "label": "Member executive committee Egyntian group, Intern. org. for Business: Education.",
+          "evidence": "Member executive committee Egyntian group, Intern. org. for Business: Education.",
+          "confidence": "high"
+        }
+      ],
+      "addresses": [
+        {
+          "address": "401, Tarik -El-Horreya, Moustafa pasha, Ramleh, ALEXANDRIA",
+          "evidence": "Add. : 401, Tarik -El-Horreya, Moustafa pasha, Ramleh, Tel. 72084, ALEXANDRIA",
+          "confidence": "high"
+        },
+        {
+          "address": "Sh. Elhamy, Tagher Bldg. Kasr el-Dubara 20734, CAIRO",
+          "evidence": "Sh. Elhamy, Tagher Bldg. Kasr el-Dubara 20734, CAIRO.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "72084",
+          "evidence": "Tel. 72084",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "G.S.C.",
+          "evidence": "G.S.C.",
+          "confidence": "high"
+        },
+        {
+          "name": "CRC.",
+          "evidence": "CRC.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_016",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 6,
+    "pdf_page_end": 6,
+    "printed_page_start": 21,
+    "printed_page_end": 21,
+    "source_incomplete": false,
+    "header": "ABDEL MAKSUD AHMED, AHMED,",
+    "body": "A. C. A, ancien Président et Administrateur délégué de la Banque Misr, administrateur de Sociétés; vice-président de l'Association des Comptables et Censeurs d'Egypte; anc. sous-sécrétaire d'Etat adj. aux Finances. Né en 1897; Etudes; Ecole Sup. de commerce; Univ. de Birmingham; Adr. Sariakos, Al-Marg, 861131, près CAIRO. Club: H.8.C.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABDEL MAKSUD AHMED",
+      "first_name": "AHMED",
+      "middle_name": null,
+      "birthdate": "1897",
+      "birthplace": null,
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": null,
+          "institution": "Ecole Sup. de commerce",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Ecole Sup. de commerce",
+          "confidence": "high"
+        },
+        {
+          "degree": null,
+          "institution": "Univ. de Birmingham",
+          "field_of_study": null,
+          "year": null,
+          "evidence": "Univ. de Birmingham",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "President and Managing Director",
+          "organization": "Banque Misr",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "ancien Président et Administrateur délégué de la Banque Misr",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director",
+          "organization": "Sociétés",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "administrateur de Sociétés",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Vice-President",
+          "organization": "Association des Comptables et Censeurs d'Egypte",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "vice-président de l'Association des Comptables et Censeurs d'Egypte",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Deputy Under-Secretary of State",
+          "organization": "aux Finances",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "anc. sous-sécrétaire d'Etat adj. aux Finances.",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "Sariakos, Al-Marg, 861131, près CAIRO",
+          "evidence": "Adr. Sariakos, Al-Marg, 861131, près CAIRO.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "clubs": [
+        {
+          "name": "H.8.C.",
+          "evidence": "Club: H.8.C.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_017",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 6,
+    "pdf_page_end": 6,
+    "printed_page_start": 21,
+    "printed_page_end": 21,
+    "source_incomplete": false,
+    "header": "ABDEL NABI, AHMED MAHMOUD,",
+    "body": "Landowner, lawyer, Minchaet Abdel Nabi, AGA (Eg.). Add. : Im. Farid el-Atrach, Sh. el-Nil, Dokki, 805170, CAIRO et Rue Moaskar el Rumani, Imm. Mahroussa, Rushdy, 65054 ALEXANDRIA (Eg.).",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABDEL NABI",
+      "first_name": "AHMED MAHMOUD",
+      "middle_name": null,
+      "birthdate": null,
+      "birthplace": null,
+      "deathdate": null,
+      "deathplace": null,
+      "education": [],
+      "jobs": [
+        {
+          "role_en": "Landowner",
+          "organization": "",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Landowner",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Lawyer",
+          "organization": "Minchaet Abdel Nabi, AGA (Eg.)",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "lawyer, Minchaet Abdel Nabi, AGA (Eg.).",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "Im. Farid el-Atrach, Sh. el-Nil, Dokki, 805170, CAIRO",
+          "evidence": "Im. Farid el-Atrach, Sh. el-Nil, Dokki, 805170, CAIRO",
+          "confidence": "high"
+        },
+        {
+          "address": "Rue Moaskar el Rumani, Imm. Mahroussa, Rushdy, 65054 ALEXANDRIA (Eg.).",
+          "evidence": "Rue Moaskar el Rumani, Imm. Mahroussa, Rushdy, 65054 ALEXANDRIA (Eg.).",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "clubs": [],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_018",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 6,
+    "pdf_page_end": 6,
+    "printed_page_start": 21,
+    "printed_page_end": 21,
+    "source_incomplete": false,
+    "header": "ABDEL NABI, KAMAL-EL-DiN MAHMOUD,",
+    "body": "Ambassadeur, directeur du protocole au Ministère des Affaires Etrangères; anc.: Directeur du Dépt. Economique au Ministére des. Affaires Etrang.; licencié en Droit & Mme, née Naima Hamdi Seif el-Nasr. Adr. : 6, Sh. Salah-Eddine, Zamalek, 808414, CAIRO.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABDEL NABI",
+      "first_name": "KAMAL-EL-DiN MAHMOUD",
+      "middle_name": null,
+      "birthdate": null,
+      "birthplace": null,
+      "deathdate": null,
+      "deathplace": null,
+      "education": [
+        {
+          "degree": "licencié en Droit",
+          "institution": null,
+          "field_of_study": "Droit",
+          "year": null,
+          "evidence": "licencié en Droit",
+          "confidence": "high"
+        }
+      ],
+      "jobs": [
+        {
+          "role_en": "Ambassador",
+          "organization": ".",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Ambassadeur",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director of Protocol",
+          "organization": "Ministère des Affaires Etrangères",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "directeur du protocole au Ministère des Affaires Etrangères",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Director of Economic Department",
+          "organization": "Ministére des. Affaires Etrang.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "anc.: Directeur du Dépt. Economique au Ministére des. Affaires Etrang.",
+          "confidence": "high"
+        }
+      ],
+      "family": [
+        {
+          "relation": "spouse",
+          "name": "Naima Hamdi Seif el-Nasr",
+          "evidence": "Mme, née Naima Hamdi Seif el-Nasr.",
+          "confidence": "high"
+        }
+      ],
+      "writings": [],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "6, Sh. Salah-Eddine, Zamalek, 808414, CAIRO",
+          "evidence": "Adr. : 6, Sh. Salah-Eddine, Zamalek, 808414, CAIRO.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "clubs": [],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_019",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 6,
+    "pdf_page_end": 6,
+    "printed_page_start": 21,
+    "printed_page_end": 21,
+    "source_incomplete": false,
+    "header": "ABDEL NOUR, AMIN FAKHRY,",
+    "body": "Sous-directeur, sécrétaire-général du Egyptian Cement Office; administrateur de Sociétés; secrét. hon. Rotary club du Caire; vice-président de la Fédér. Eg. de Squash Raquets. Adr.: 8, Sh. Saleh Ayoub, Zamalek 804185, CAIRO. Clubs. : G.S.C., HS.C. B.C. of Cairo.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABDEL NOUR",
+      "first_name": "AMIN",
+      "middle_name": "FAKHRY",
+      "birthdate": null,
+      "birthplace": null,
+      "deathdate": null,
+      "deathplace": null,
+      "education": [],
+      "jobs": [
+        {
+          "role_en": "Deputy Director and Secretary-General",
+          "organization": "Egyptian Cement Office",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Sous-directeur, sécrétaire-général du Egyptian Cement Office",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Administrator",
+          "organization": "Sociétés",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "administrateur de Sociétés",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Honorary Secretary",
+          "organization": "Rotary club du Caire",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "secrét. hon. Rotary club du Caire",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Vice-President",
+          "organization": "Fédér. Eg. de Squash Raquets.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "vice-président de la Fédér. Eg. de Squash Raquets.",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "8, Sh. Saleh Ayoub, Zamalek 804185, CAIRO",
+          "evidence": "Adr.: 8, Sh. Saleh Ayoub, Zamalek 804185, CAIRO.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "clubs": [
+        {
+          "name": "G.S.C.",
+          "evidence": "Clubs. : G.S.C.",
+          "confidence": "high"
+        },
+        {
+          "name": "HS.C.",
+          "evidence": "HS.C.",
+          "confidence": "high"
+        },
+        {
+          "name": "B.C. of Cairo",
+          "evidence": "B.C. of Cairo.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_020",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 6,
+    "pdf_page_end": 6,
+    "printed_page_start": 21,
+    "printed_page_end": 21,
+    "source_incomplete": false,
+    "header": "ABDEL WAHAB, IBRAHIM,",
+    "body": "avocat à la cour, ex-ministre d'Etat, du Com, de Ind. et de VApprov.; Sécrétairegén. de la Féd. des A.N.A.P. en Egypte et. de la Kitchener Memorial Sty. Cabinet: Immobilia. appt. 568, Tél. 57985, 55962; & Mme, née Raafat Delavor. Adr. : 4, Sh. De Martino, Héliopolis, Tél. 60054, CAIRO. Clubs: G.S.C. A.C.E. T.CE. R.C. of Cairo. vice-président de la Féd. Eg. de Golf.",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "ABDEL WAHAB",
+      "first_name": "IBRAHIM",
+      "middle_name": null,
+      "birthdate": null,
+      "birthplace": null,
+      "deathdate": null,
+      "deathplace": null,
+      "education": [],
+      "jobs": [
+        {
+          "role_en": "Lawyer",
+          "organization": "la cour",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "avocat à la cour",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Minister of State",
+          "organization": "du Com, de Ind. et de VApprov.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "ex-ministre d'Etat, du Com, de Ind. et de VApprov.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Secretary-General",
+          "organization": "la Féd. des A.N.A.P. en Egypte",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Sécrétairegén. de la Féd. des A.N.A.P. en Egypte",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Secretary-General",
+          "organization": "la Kitchener Memorial Sty.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "Sécrétairegén. de la Féd. des A.N.A.P. en Egypte et. de la Kitchener Memorial Sty.",
+          "confidence": "high"
+        },
+        {
+          "role_en": "Vice-President",
+          "organization": "la Féd. Eg. de Golf.",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "vice-président de la Féd. Eg. de Golf.",
+          "confidence": "high"
+        }
+      ],
+      "family": [
+        {
+          "relation": "spouse",
+          "name": "Mme, née Raafat Delavor",
+          "evidence": "Mme, née Raafat Delavor.",
+          "confidence": "high"
+        }
+      ],
+      "writings": [],
+      "awards": [],
+      "political_activities": [],
+      "addresses": [
+        {
+          "address": "Immobilia. appt. 568",
+          "evidence": "Cabinet: Immobilia. appt. 568",
+          "confidence": "high"
+        },
+        {
+          "address": "4, Sh. De Martino, Héliopolis, CAIRO",
+          "evidence": "Adr. : 4, Sh. De Martino, Héliopolis",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "57985",
+          "evidence": "Tél. 57985",
+          "confidence": "high"
+        },
+        {
+          "phone": "55962",
+          "evidence": "55962",
+          "confidence": "high"
+        },
+        {
+          "phone": "60054",
+          "evidence": "Tél. 60054",
+          "confidence": "high"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "G.S.C.",
+          "evidence": "Clubs: G.S.C.",
+          "confidence": "high"
+        },
+        {
+          "name": "A.C.E.",
+          "evidence": "A.C.E.",
+          "confidence": "high"
+        },
+        {
+          "name": "T.CE.",
+          "evidence": "T.CE.",
+          "confidence": "high"
+        },
+        {
+          "name": "R.C. of Cairo.",
+          "evidence": "R.C. of Cairo.",
+          "confidence": "high"
+        }
+      ],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": false
+    }
+  },
+  {
+    "id": "encyclopedia_sample_021",
+    "source_id": "encyclopedia_sample",
+    "pdf_page_start": 6,
+    "pdf_page_end": 6,
+    "printed_page_start": 21,
+    "printed_page_end": 21,
+    "source_incomplete": true,
+    "header": "ABDEL WAHAB TALAAT, GC. phénix de",
+    "body": "Gréce.et Grand Officier de l'Ordre de la Cour d’Italie, M.V.O., Officier de la Légion d'Honneur, Grand Officier de POrdre Tadj d'Iran, G. Cour. de Belg., C.O. Léopold It de Belg. C.O. Pie IX, Grand Offieier de l'Ordre Astor d’Afgh., C. Lion Blanc de Tchéc., S. St. Trinité d’Ethiopie, Nich. Fakhama de Maroc, anc. Sénateur. Né au Caire le 11 Déc. 1889,",
+    "model": "gpt-5-mini-2025-08-07",
+    "reasoning": "high",
+    "max_output_tokens": 50000,
+    "data": {
+      "last_name": "TALAAT",
+      "first_name": "ABDEL WAHAB",
+      "middle_name": null,
+      "birthdate": "1889-12-11",
+      "birthplace": "Caire",
+      "deathdate": null,
+      "deathplace": null,
+      "education": [],
+      "jobs": [
+        {
+          "role_en": "Senator",
+          "organization": "",
+          "start_year": null,
+          "end_year": null,
+          "evidence": "anc. Sénateur.",
+          "confidence": "high"
+        }
+      ],
+      "family": [],
+      "writings": [],
+      "awards": [
+        {
+          "label": "GC. phénix de",
+          "evidence": "GC. phénix de",
+          "confidence": "high"
+        },
+        {
+          "label": "Grand Officier de l'Ordre de la Cour d’Italie",
+          "evidence": "Grand Officier de l'Ordre de la Cour d’Italie",
+          "confidence": "high"
+        },
+        {
+          "label": "M.V.O.",
+          "evidence": "M.V.O.",
+          "confidence": "high"
+        },
+        {
+          "label": "Officier de la Légion d'Honneur",
+          "evidence": "Officier de la Légion d'Honneur",
+          "confidence": "high"
+        },
+        {
+          "label": "Grand Officier de POrdre Tadj d'Iran",
+          "evidence": "Grand Officier de POrdre Tadj d'Iran",
+          "confidence": "high"
+        },
+        {
+          "label": "G. Cour. de Belg.",
+          "evidence": "G. Cour. de Belg.",
+          "confidence": "high"
+        },
+        {
+          "label": "C.O. Léopold It de Belg.",
+          "evidence": "C.O. Léopold It de Belg.",
+          "confidence": "high"
+        },
+        {
+          "label": "C.O. Pie IX",
+          "evidence": "C.O. Pie IX",
+          "confidence": "high"
+        },
+        {
+          "label": "Grand Offieier de l'Ordre Astor d’Afgh.",
+          "evidence": "Grand Offieier de l'Ordre Astor d’Afgh.",
+          "confidence": "high"
+        },
+        {
+          "label": "C. Lion Blanc de Tchéc.",
+          "evidence": "C. Lion Blanc de Tchéc.",
+          "confidence": "high"
+        },
+        {
+          "label": "S. St. Trinité d’Ethiopie",
+          "evidence": "S. St. Trinité d’Ethiopie",
+          "confidence": "high"
+        },
+        {
+          "label": "Nich. Fakhama de Maroc",
+          "evidence": "Nich. Fakhama de Maroc",
+          "confidence": "high"
+        }
+      ],
+      "political_activities": [],
+      "addresses": [],
+      "phones": [],
+      "clubs": [],
+      "founder_of": [],
+      "notes": [],
+      "quality": {
+        "multiple_people_detected": false,
+        "needs_review": false,
+        "needs_review_reason": null
+      }
+    },
+    "validation": {
+      "evidence_issues": [],
+      "needs_review": true
+    }
+  }
+]

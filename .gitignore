@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+api_keys/
+*.env
+# Scanned pages are not part of the initial release. Add them deliberately with `git add -f`.
+*.pdf
+*.tmp
+*.stackdump
+.venv/
+__pycache__/
+*.py[cod]
+outputs/
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+Thumbs.db

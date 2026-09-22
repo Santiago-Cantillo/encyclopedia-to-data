@@ -1,0 +1,18 @@
+{
+  "entries": 21,
+  "structured_records": 21,
+  "csv_rows": 21,
+  "source_incomplete": [
+    "encyclopedia_sample_021"
+  ],
+  "needs_review": [
+    "encyclopedia_sample_009",
+    "encyclopedia_sample_010",
+    "encyclopedia_sample_013",
+    "encyclopedia_sample_014",
+    "encyclopedia_sample_021"
+  ],
+  "evidence_issue_count": 0,
+  "structural_checks_passed": true,
+  "note": "Structural checks and evidence matching do not establish factual accuracy. Compare with scans."
+}

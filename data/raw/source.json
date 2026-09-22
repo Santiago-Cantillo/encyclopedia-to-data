@@ -1,0 +1,20 @@
+{
+  "source_id": "encyclopedia_sample",
+  "title": "Biographical encyclopedia, mid-twentieth century (title withheld)",
+  "note": "Two-column pages with entries in French or English. The publisher reserved all rights; the scan is not redistributed with this code.",
+  "original_file": "withheld",
+  "original_sha256": "withheld",
+  "sample_sha256": "7851c99b2c7e2e274f1845a65c09efedadc217eabe00407cb1a06104ec4663b6",
+  "pdf_viewer_pages": [
+    4,
+    5,
+    6
+  ],
+  "printed_pages": [
+    19,
+    20,
+    21
+  ],
+  "last_entry_incomplete": true,
+  "boundary_note": "The final biography continues beyond the selected sample. Verify this for another sample."
+}

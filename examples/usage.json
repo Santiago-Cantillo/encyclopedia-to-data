@@ -1,0 +1,11 @@
+{
+  "successful_entries": 21,
+  "successful_response_tokens": {
+    "input_tokens": 78203,
+    "output_tokens": 224771,
+    "total_tokens": 302974,
+    "cached_input_tokens": 57856,
+    "reasoning_tokens": 209344
+  },
+  "note": "Excludes failed attempts and retries; use billing records for charges."
+}
